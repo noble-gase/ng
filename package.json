@@ -1,0 +1,41 @@
+{
+	"name": "solarized-pro",
+	"displayName": "Solarized Pro",
+	"description": "A dark solarized theme for VSCode.",
+	"version": "1.0.10",
+	"publisher": "noble-gase",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.80.0"
+	},
+	"galleryBanner": {
+		"color": "#002B36",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"solarized",
+		"theme",
+		"dark"
+	],
+	"icon": "icon.png",
+	"bugs": {
+		"url": "https://github.com/noble-gase/ar/issues"
+	},
+	"homepage": "https://github.com/noble-gase/ar",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/noble-gase/ar"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Solarized Pro",
+				"uiTheme": "vs-dark",
+				"path": "./themes/solarized-pro-color-theme.json"
+			}
+		]
+	}
+}
