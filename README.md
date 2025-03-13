@@ -1,6 +1,6 @@
 # 氩-Ar
 
-[氩-Ar] A dark solarized theme for VSCode.
+[氩-Ar] A dark solarized theme for VSCode
 
 ## Installation
 
