@@ -76,6 +76,8 @@
 		"peekViewResult.background": "#002b36",
 		"peekViewEditor.background": "#00212b",
 		"peekViewEditor.matchHighlightBackground": "#284b53",
+		// Git: Blame
+		"git.blame.editorDecorationForeground": "#586e75",
 		// Workbench: Title
 		"titleBar.activeForeground": "#eee8d5",
 		"titleBar.activeBackground": "#002b36",
