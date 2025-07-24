@@ -22,12 +22,12 @@
 	],
 	"icon": "icon.png",
 	"bugs": {
-		"url": "https://github.com/noble-gase/ar/issues"
+		"url": "https://github.com/noble-gase/ng/issues"
 	},
-	"homepage": "https://github.com/noble-gase/ar",
+	"homepage": "https://github.com/noble-gase/ng",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/noble-gase/ar"
+		"url": "https://github.com/noble-gase/ng"
 	},
 	"contributes": {
 		"themes": [
