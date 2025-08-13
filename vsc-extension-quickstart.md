@@ -30,5 +30,5 @@ To learn more about scopes and how they're used, check out the [color theme](htt
 ## Package extension
 
 * Install vsce `npm install -g @vscode/vsce`
-* Editor `package.json`
+* Edit `package.json`
 * Run `vsce package`
