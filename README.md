@@ -1,4 +1,4 @@
-# solarized-pro
+# Solarized Pro
 
 A dark solarized theme for VSCode
 
