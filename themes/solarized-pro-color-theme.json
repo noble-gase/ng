@@ -72,8 +72,8 @@
         "editorInlayHint.parameterForeground": "#cdcdcf60",
         "editorInlayHint.parameterBackground": "#003847",
         // Editor: Diff
-        "diffEditor.insertedTextBackground": "#00809b30",
-        "diffEditor.insertedLineBackground": "#85990020",
+        "diffEditor.insertedTextBackground": "#16ab7130",
+        "diffEditor.insertedLineBackground": "#16ab7120",
         // Editor: Suggest
         // "editorSuggestWidget.background": "",
         // "editorSuggestWidget.border": "",
